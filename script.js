@@ -1,4 +1,4 @@
-let currentDisplay= '0';
+ let currentDisplay= '0';
         function clearDisplay()
         {
            currentDisplay ='0';
